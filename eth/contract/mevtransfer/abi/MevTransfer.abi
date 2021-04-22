@@ -1,0 +1,1 @@
+[{"inputs":[],"name":"chi","outputs":[{"internalType":"contract IChiToken","name":"","type":"address"}],"stateMutability":"view","type":"function"},{"inputs":[{"internalType":"uint256","name":"bribe","type":"uint256"}],"name":"transfer","outputs":[],"stateMutability":"payable","type":"function"}]
