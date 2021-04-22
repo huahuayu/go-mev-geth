@@ -48,7 +48,7 @@ use abigen to get go binding code.
 
 ## how to use
 
-change `sender` & `contract` var in `TestBundle_Simulate` and run test.
+change [sender](https://github.com/huahuayu/go-mev-geth/blob/785eb0a2a4fff313653fa67e9dac29d467bb75b9/bundle/bundle_test.go#L16) & [contract](https://github.com/huahuayu/go-mev-geth/blob/785eb0a2a4fff313653fa67e9dac29d467bb75b9/bundle/bundle_test.go#L17) var in `TestBundle_Simulate` and run test.
 
 the `sender` is the EOA to send the tx.
 
